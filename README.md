@@ -7,7 +7,7 @@ This calculator allows users to perform basic arithmetic operations as well as s
 
 ## 📸 Preview
 
-![Calculator Preview](screenshot.png) <!-- Add a screenshot here if available -->
+![Calculator Preview](Screenshot.png) <!-- Add a screenshot here if available -->
 
 ---
 
