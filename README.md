@@ -1,7 +1,7 @@
 # 🔬 Scientific Calculator
 
 A simple and responsive **Scientific Calculator** built using **HTML**, **CSS**, and **JavaScript**.  
-This calculator allows users to perform basic arithmetic operations as well as scientific calculations like square root, trigonometric functions, logarithms, and powers.
+This calculator enables users to perform basic arithmetic operations, as well as scientific calculations such as square roots, trigonometric functions, logarithms, and powers.
 
 ---
 
